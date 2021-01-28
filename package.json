@@ -1,0 +1,23 @@
+{
+  "name": "viberbot",
+  "version": "1.0.0",
+  "description": "bot viber",
+  "main": "app.js",
+  "scripts": {
+    "test": "test app.js",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "viber-bot"
+  },
+  "keywords": [
+    "sandy"
+  ],
+  "author": "sandy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "viber-bot": "^1.0.16"
+  }
+}
